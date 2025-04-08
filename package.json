@@ -6,7 +6,7 @@
   "source": "src/index.html",
   "scripts": {
     "start": "npm start",
-    "build": "npm install"
+    "build": "npm run build"
   },
   "repository": {
     "type": "git",
